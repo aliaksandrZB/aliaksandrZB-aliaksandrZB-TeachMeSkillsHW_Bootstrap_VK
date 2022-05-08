@@ -1,0 +1,32 @@
+.my-nav-bg {
+    background-color: white;
+}
+
+.my-nav-bg:hover, .my-nav-bg:focus {
+    background-color: #f5f6f8;
+}
+
+.my-panel-bg {
+    background-color: #edeef0;
+}
+
+.my-panel-bg:hover, .my-panel-bg:focus {
+    background-color: #aeb7c21f;
+}
+
+.my-card-button-bg {
+    background-color: #e5ebf1;
+}
+
+.my-card-button-bg:hover, .my-card-button-bg:focus {
+    background-color: #dae2ea;
+}
+
+.my-card-button-bg-bot {
+    background-color: white;
+}
+
+.my-card-button-bg-bot:hover, .my-card-button-bg-bot:focus {
+    background-color: #aeb7c21f;
+}
+
